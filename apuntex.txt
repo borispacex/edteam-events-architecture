@@ -1,0 +1,7 @@
+1. Levantar servicios kafka
+docker-compose -f docker-compose-infrastracture.yml up -d
+
+
+2. Utilizando kafka con docker
+
+
